@@ -1,5 +1,3 @@
-# ABOUT-ME
-Created for Hiring Managers/Recruiters to take a look at
 FOUZAN KHAN
 Data Scientist
 343-550-2759 | khan.fouzan08@gmail.com |www.linkedin.com/in/fouzank|github.com/FOUZANKHAN 
@@ -20,12 +18,13 @@ Collaborated with the engineering department to develop and implement user-frien
 Researched and identified key funding opportunities through extensive analysis of grant databases, resulting in a 40% increase in successful grant applications for center initiatives.
 Implemented professor-led initiatives to improve student engagement, resulting in a 20% decrease in course drop-out rates.
 Developed engaging social media campaigns that resulted in a 40% increase in website traffic, reaching over 5,000 unique visitors per month.
+
 Software Development Intern, Northline                                                               Mar 2021 - Aug 2021 
 Conceptualized, designed, and launched a user-friendly web application prototype resulting in a 20% increase in user engagement and retention rates.
 Implemented OAuth2 authentication, reducing login incidents by 80% and ensuring robust security measures for user access.
 Utilized MongoDB for efficient data storage, resulting in a 40% reduction in query response time and enhancing overall application performance.
 Coordinated weekly client meetings and organized monthly stakeholder meetups to maintain project alignment, resulting in a 20% increase in project efficiency.
-Implemented data cleansing procedures to improve overall data quality, reducing errors by 15% and increasing database efficiency by 20%.
+
 Machine Learning Intern, SmartBridge                                                                      Jun 2019 - Jul 2019 
 Implemented data preprocessing techniques to clean and prepare datasets for analysis, reducing errors by 75% and improving model efficiency by 40%.
 Implemented data preprocessing techniques to clean and transform raw data, leading to a 40% reduction in processing time.
@@ -33,24 +32,28 @@ Implemented quality control measures to ensure the reliability of the model, res
 Utilized evaluation metrics to assess the performance of the machine learning models, achieving an accuracy rate of 85%.
 Implemented innovative data visualization techniques to enhance the usability of the predictive model, resulting in a 30% decrease in user errors.
 
-EDUCATION                                                                                                                                                                                                                                                                                                                                                                                                             
+EDUCATION
+                                                                                                                                                                                                              
 Graduate Certificate Artificial Intelligence Software Development 			May 2024
 Algonquin College, Ottawa     	                               					                        
 
 Masters of Science in Computer Science							May 2023 
 California State University, Long Beach       	                               	                                             	                              				       		       	                                                       
-
 Bachelor of Engineering, Information Technology						Sept 2020 
 Osmania University, Hyderabad       	        
 
+
 SKILLS
+
 Programming Languages & Frameworks: Python, Numpy, Pandas, Tensorflow, Scikit-learn,Jupyter Notebooks, Keras, Pytorch, Predictive Models
 Statistic & Machine Learning: Clustering, Classification, Regression and Outlier Detection.
 Data Visualization: Tableau, Matplotlib, Seaborn
 Database: SQL, Familiar with NoSQL(MongoDB)
 Operating Systems: Ubuntu(Linux)
 
+
 PROJECTS 
+
 Fatal Collisions Predictions  (Dec 2023)      		                   
 Performed comprehensive Exploratory Data Analysis (EDA) on a dataset consisting of 52 attributes related to fatal collisions.
 Utilized EDA techniques to identify patterns and relationships within the data.
@@ -83,10 +86,8 @@ Conducted in-depth analysis of COVID-19 statistics for various countries, focusi
 Analyzed India's peak death rate, which decreased from 1.38% in January 2022 to 1.18% in July 2023, despite ongoing vaccination efforts.
 Examined China's COVID-19 escalation from 0.000096% in February 2020 to 0.0085% in July 2023, highlighting the country's trajectory over time.
 Globally compared infection rates across nations, emphasizing diverse containment outcomes such as Cyprus with a 73% infection rate and Yemen with a 0.03% infection rate.
-
 Deku: Search Engine for U.S. National Parks (Dec 2022)                                                 
 Developed an advanced search engine tailored for U.S. National Parks, leveraging SQLite3 database and sophisticated retrieval strategies.
 Indexed and stored 36,800 documents with optimized retrieval time of O(1) using SQLite3 database, ensuring efficient access to park information.
 Implemented support for boolean and phrase queries to provide precise search results, enhancing user experience and search accuracy.
 Evaluated the search engine's efficiency, achieving a Mean Average Precision (MAP) of 0.258, indicating the relevance of search results, and a Mean Response Time of 132.79 milliseconds, ensuring fast response times for user queries.
-
